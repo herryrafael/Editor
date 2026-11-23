@@ -1,0 +1,16 @@
+{
+  "slug": "{{slug}}",
+  "type": "headliner",
+  "fps": 25,
+  "width": 1920,
+  "height": 1080,
+  "language": "id",
+  "target_lufs": -14,
+  "fit": "fill",
+  "proxy_height": 540,
+  "preview_scale": 0.5,
+  "chunk_seconds": 30,
+  "scene_threshold": 0.3,
+  "crf": 16,
+  "x264_preset": "slow"
+}

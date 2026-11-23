@@ -1,0 +1,9 @@
+{
+  "theme": {"accent": "#FFD60A", "font": "Inter, 'Helvetica Neue', Arial, sans-serif"},
+  "items": [
+    {"id": "kinetic", "composition": "KineticText", "duration": 90,
+     "props": {"words": [], "size": 12}},
+    {"id": "end", "composition": "EndCard", "duration": 6,
+     "props": {"logo": "assets/logo.png", "lines": ["Nama Acara 2026"], "footer": "Tanggal · Venue", "bg": "#000000"}}
+  ]
+}

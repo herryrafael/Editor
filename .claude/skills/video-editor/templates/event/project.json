@@ -1,0 +1,16 @@
+{
+  "slug": "{{slug}}",
+  "type": "event",
+  "fps": 25,
+  "width": 1920,
+  "height": 1080,
+  "language": "id",
+  "target_lufs": -16,
+  "fit": "fill",
+  "proxy_height": 540,
+  "preview_scale": 0.5,
+  "chunk_seconds": 60,
+  "scene_threshold": 0.3,
+  "crf": 18,
+  "x264_preset": "medium"
+}

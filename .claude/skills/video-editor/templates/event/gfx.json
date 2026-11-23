@@ -1,0 +1,13 @@
+{
+  "theme": {"accent": "#E63946", "font": "Inter, 'Helvetica Neue', Arial, sans-serif"},
+  "items": [
+    {"id": "title", "composition": "TitleCard", "duration": 5,
+     "props": {"kicker": "Dokumentasi", "title": "Nama Acara", "subtitle": "Kota · Tanggal", "background": "dim"}},
+    {"id": "lt_pembicara1", "composition": "LowerThird", "duration": 5,
+     "props": {"name": "Nama Pembicara", "role": "Jabatan, Perusahaan"}},
+    {"id": "bab1", "composition": "ChapterCard", "duration": 3,
+     "props": {"number": "BAGIAN 01", "title": "Pembukaan", "mode": "overlay"}},
+    {"id": "end", "composition": "EndCard", "duration": 5,
+     "props": {"lines": ["Terima kasih", "Kota, Tanggal"], "footer": "", "bg": "#0d0f14"}}
+  ]
+}

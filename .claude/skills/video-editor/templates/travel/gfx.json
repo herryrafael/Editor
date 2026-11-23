@@ -1,0 +1,13 @@
+{
+  "theme": {"accent": "#F4A261", "font": "Inter, 'Helvetica Neue', Arial, sans-serif"},
+  "items": [
+    {"id": "title", "composition": "TitleCard", "duration": 5,
+     "props": {"kicker": "Perjalanan", "title": "Judul Trip", "subtitle": "Tanggal · Jumlah hari", "background": "none"}},
+    {"id": "hari1", "composition": "ChapterCard", "duration": 3,
+     "props": {"number": "HARI 1", "title": "Tiba", "mode": "overlay"}},
+    {"id": "loc1", "composition": "LocationTag", "duration": 4,
+     "props": {"place": "Nama Tempat", "detail": "Hari 1 · tanggal"}},
+    {"id": "end", "composition": "EndCard", "duration": 5,
+     "props": {"lines": ["Sampai jumpa"], "footer": "@akun"}}
+  ]
+}

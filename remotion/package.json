@@ -1,0 +1,19 @@
+{
+  "name": "vedit-gfx",
+  "private": true,
+  "description": "Grafis overlay (judul, lower third, lokasi, bab, kinetic text, kolase, end card) untuk vedit",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.541",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.541"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "typescript": "5.6.3"
+  }
+}

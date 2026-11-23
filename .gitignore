@@ -1,0 +1,14 @@
+# media & hasil generate (berat, tidak masuk git)
+projects/*/footage/
+projects/*/music/
+projects/*/work/
+projects/*/review/
+projects/*/out/
+projects/*/assets/**/*.mov
+projects/*/assets/**/*.mp4
+models/
+remotion/node_modules/
+remotion/public/projects/
+remotion/out/
+__pycache__/
+.DS_Store
